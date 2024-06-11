@@ -7,5 +7,6 @@ This is the home of Salt, a framework for training multi-model and multi-task mo
 Documentation is available [here](https://ftag-salt.docs.cern.ch/).
 # salt-tutorial
 Running the SALT Framework Tutorial using preprocessed data
+
 Accessed via https://zenodo.org/records/10371998 on 08/06/2024
 
